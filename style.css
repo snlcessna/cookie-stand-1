@@ -1,0 +1,99 @@
+body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eecbad;
+  width: 960px;
+}
+#header {
+  height: 246px;
+  length: 960px;
+  border: 2px solid green;
+  margin-left: auto;
+}
+#header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#navbar {
+  length: 960px;
+  background-color: black;
+}
+a {
+  color: white
+}
+a:hover {
+  color: #ff9999
+}
+#customerReviews {
+  border: 2px solid black;
+}
+#Home, #Prices, #AboutUs, #Direction, #Testimonies, #Sales {
+  display: inline-block;
+  background-color: black;
+}
+#mainBody {
+  length: 960px;
+  height: auto;
+}
+#textBox1 {
+  display: inline-block;
+  height: 250px;
+  width: 475px;
+  float: right;
+  text-align:right;
+}
+#imageBox1 {
+  display: inline-block;
+  height: 250px;
+  width: 475px;
+  float: right;
+}
+#textBox2 {
+  display: inline-block;
+  height: 250px;
+  width: 670px;
+  float: left;
+}
+#imageBox2 {
+  display: inline-block;
+  height: 250px;
+  width: 282px;
+  float: left;
+}
+#textBox3 {
+  display: inline-block;
+  height: 250px;
+  width: 577px;
+  float: right;
+  text-align: right;
+}
+#imageBox3 {
+  display: inline-block;
+  height: 250px;
+  width: 375px;
+  float: right;
+}
+#textBox4 {
+  display: inline-block;
+  height: 250px;
+  width: 430px;
+  float: left;
+}
+#imageBox4 {
+  display: inline-block;
+  height: 250px;
+  width: 513px;
+  float: left;
+}
+#textBox5 {
+  display: inline-block;
+  height: 250px;
+  width: 450px;
+}
+#imageBox5 {
+  display: inline-block;
+  height: 250px;
+  width: 444px;
+}
