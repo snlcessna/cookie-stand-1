@@ -1,5 +1,6 @@
 debugger;
-var imgTest = ["photos/counter.jpg", "photos/deserts.jpg", "photos/fishcookies2.png", "photos/muffins.jpg", "photos/rolls.jpg"];
+var imgTest = ["photos/counter.jpg", "photos/fishcookies2.png", "photos/muffins.jpg", "photos/deserts.jpg", "photos/rolls.jpg"];
+var imgBoxTest = ['imagebox1', 'imageBox2', 'imageBox3', 'imageBox4', 'imageBox5'];
 var img = new Image();
 
 window.onload = function(){ //Pulls the dimensions of each photo in the array imgTest to push to css for styling the images

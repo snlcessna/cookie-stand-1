@@ -56,12 +56,14 @@ a:hover {
   height: 250px;
   width: 670px;
   float: left;
+  border: 2px solid black;
 }
 #imageBox2 {
   display: inline-block;
-  height: 250px;
-  width: 282px;
+  height: var(--height);
+  width: var(--width);
   float: left;
+  border: 2px solid black;
 }
 #textBox3 {
   display: inline-block;
@@ -69,32 +71,38 @@ a:hover {
   width: 577px;
   float: right;
   text-align: right;
+  border: 2px solid black;
 }
 #imageBox3 {
   display: inline-block;
-  height: 250px;
-  width: 375px;
+  height: var(--height);
+  width: var(--width);
   float: right;
+  border: 2px solid black;
 }
 #textBox4 {
   display: inline-block;
-  height: 250px;
-  width: 430px;
+  height: var(--height);
+  width: var(--width);
   float: left;
+  border: 2px solid black;
 }
 #imageBox4 {
   display: inline-block;
-  height: 250px;
-  width: 513px;
+  height: var(--height);
+  width: var(--width);
   float: left;
+  border: 2px solid black;
 }
 #textBox5 {
   display: inline-block;
   height: 250px;
   width: 450px;
+  border: 2px solid black;
 }
 #imageBox5 {
   display: inline-block;
-  height: 250px;
-  width: 444px;
+  height: var(--height);
+  width: var(--width);
+  border: 2px solid black;
 }
