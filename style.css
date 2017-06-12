@@ -44,11 +44,12 @@ a:hover {
   float: right;
   text-align:right;
 }
-#imageBox1 {
+.imageBox1 {
   display: inline-block;
-  height: 250px;
-  width: 475px;
+  height: var(--height);
+  width: var(--width);
   float: right;
+  border: 2px solid black;
 }
 #textBox2 {
   display: inline-block;
