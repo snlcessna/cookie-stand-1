@@ -37,72 +37,53 @@ a:hover {
   length: 960px;
   height: auto;
 }
-#textBox1 {
+.img1 {
   display: inline-block;
-  height: 250px;
-  width: 475px;
-  float: right;
-  text-align:right;
+  height: var(--ib1height);
+  width: var(--ib1width);
 }
-.imageBox1 {
+.img2 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  float: right;
-  border: 2px solid black;
+  height: var(--ib2height);
+  width: var(--ib2width);
 }
-#textBox2 {
+.img3 {
   display: inline-block;
-  height: 250px;
-  width: 670px;
-  float: left;
-  border: 2px solid black;
+  height: var(--ib3height);
+  width: var(--ib3width);
 }
-#imageBox2 {
+.img4 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  float: left;
-  border: 2px solid black;
+  height: var(--ib4height);
+  width: var(--ib4width);
 }
-#textBox3 {
+.img5 {
   display: inline-block;
-  height: 250px;
-  width: 577px;
-  float: right;
-  text-align: right;
-  border: 2px solid black;
+  height: var(--ib5height);
+  width: var(--ib5width);
 }
-#imageBox3 {
+.text1 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  float: right;
-  border: 2px solid black;
+  height: var(--tb1height);
+  width: var(--tb1width);
 }
-#textBox4 {
+.text2 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  float: left;
-  border: 2px solid black;
+  height: var(--tb2height);
+  width: var(--tb2width);
 }
-#imageBox4 {
+.text3 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  float: left;
-  border: 2px solid black;
+  height: var(--tb3height);
+  width: var(--tb3width);
 }
-#textBox5 {
+.text4 {
   display: inline-block;
-  height: 250px;
-  width: 450px;
-  border: 2px solid black;
+  height: var(--tb4height);
+  width: var(--tb4width);
 }
-#imageBox5 {
+.text5 {
   display: inline-block;
-  height: var(--height);
-  width: var(--width);
-  border: 2px solid black;
+  height: var(--tb5height);
+  width: var(--tb5width);
 }
