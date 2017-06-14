@@ -37,53 +37,85 @@ a:hover {
   length: 960px;
   height: auto;
 }
+.testimonials h2, .missionStatement h2, .storePhotos h2 {
+  text-align: center;
+}
 .img1 {
   display: inline-block;
   height: var(--ib1height);
   width: var(--ib1width);
+  float: right;
 }
 .img2 {
   display: inline-block;
   height: var(--ib2height);
   width: var(--ib2width);
+  float: left;
 }
 .img3 {
   display: inline-block;
   height: var(--ib3height);
   width: var(--ib3width);
+  float: right;
 }
 .img4 {
   display: inline-block;
   height: var(--ib4height);
   width: var(--ib4width);
+  float: left;
 }
 .img5 {
   display: inline-block;
   height: var(--ib5height);
   width: var(--ib5width);
+  float: right;
 }
 .text1 {
-  display: inline-block;
+  display: block;
   height: var(--tb1height);
   width: var(--tb1width);
+  float: left;
+  text-align: right;
 }
 .text2 {
   display: inline-block;
-  height: var(--tb2height);
+  height: var(--tb2height);float: left;
   width: var(--tb2width);
+  float: right;
+  text-align: left;
 }
 .text3 {
   display: inline-block;
   height: var(--tb3height);
   width: var(--tb3width);
+  float: left;
+  text-align: right;
 }
 .text4 {
   display: inline-block;
   height: var(--tb4height);
   width: var(--tb4width);
+  float: right;
+  text-align: left;
 }
 .text5 {
   display: inline-block;
   height: var(--tb5height);
   width: var(--tb5width);
+  float: left;
+  text-align: right;
+}
+.footer {
+  color: white;
+}
+table, td, th {
+  border: 2px solid black;
+  width: auto;
+  text-align: center;
+}
+.titlePrices h1 {
+  border: 2px solid black;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
