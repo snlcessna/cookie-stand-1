@@ -42,11 +42,18 @@ a:hover {
 }
 #pStyle {
   display: block;
-  width: 300px;
+  width: 290px;
   height: 200px;
   margin-right: 10px;
   margin-left: 10px;
   margin-top: 10px;
   float: left;
-  border: 2px solid black;
+  border-radius: 25px;
+  background: red;
+  font-size: 14px;
+  font: bold;
+}
+#pStyle h6, p {
+  margin-top: 10px;
+  margin-left: 10px;
 }
