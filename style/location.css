@@ -1,0 +1,109 @@
+body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eecbad;
+  width: 960px;
+}
+#header {
+  height: 246px;
+  length: 960px;
+  border: 2px solid green;
+  margin-left: auto;
+}
+#header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#navbar {
+  length: 960px;
+  background-color: black;
+}
+a {
+  color: white
+}
+a:hover {
+  color: #ff9999
+}
+#customerReviews {
+  border: 2px solid black;
+}
+#Home, #Prices, #AboutUs, #Direction, #Testimonies, #Sales {
+  display: inline-block;
+  background-color: black;
+}
+#mainBody {
+  length: 960px;
+  height: auto;
+}
+.img1 {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+.text1 {
+  display: block;
+  width: 560px;
+  height: 300px;
+  margin: 0px;
+  float: right;
+  text-align: right;
+}
+.img2 {
+  display: inline-block;
+  width: 400px;
+  height: 511px;
+  float: right;
+}
+.text2 {
+  display: block;
+  width: 560px;
+  height: 511px;
+  margin: 0px;
+  float: right;
+  text-align: left;
+}
+.img3 {
+  display: inline-block;
+  width: 400px;
+  height: 321px;
+  float: right;
+}
+.text3 {
+  display: block;
+  width: 560px;
+  height: 321px;
+  margin: 0px;
+  float: right;
+  text-align: right;
+}
+.img4 {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+.text4 {
+  display: block;
+  width: 560px;
+  height: 300px;
+  margin: 0px;
+  float: right;
+  text-align: left;
+}
+.img5 {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+.text5 {
+  display: block;
+  width: 560px;
+  height: 300px;
+  margin: 0px;
+  float: right;
+  text-align: right;
+}
